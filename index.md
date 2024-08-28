@@ -73,10 +73,3 @@
 ### [<u>Seminars in 2020</u>](./2020.html)
 
 ### [<u>Seminars in 2019</u>](./2019.html)
-
-
-
-* * *
-## Other Online Seminar Initiatives
-[One World Actuarial Research Seminar](http://www.maths.usyd.edu.au/u/munir/owars/)
-
