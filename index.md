@@ -63,6 +63,7 @@
 
 </body>
 
+### [<u>Seminars in 2024</u>](./2024.html)
  
 ### [<u>Seminars in 2023</u>](./2023.html)
 
