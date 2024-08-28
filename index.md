@@ -10,6 +10,9 @@
 
 ## Student Organizers
 
+<b>[Qinghua Ren](https://sas.uwaterloo.ca/~wang/pages/team.html) (University of Waterloo):
+<a href="mailto:qinghua.ren@uwaterloo.ca">qinghua.ren@uwaterloo.ca</a></b>
+
 <b>[Zachary John Van Oosten](https://sas.uwaterloo.ca/~wang/pages/team.html) (University of Waterloo):
 <a href="mailto:zjvanoosten@uwaterloo.ca">zjvanoosten@uwaterloo.ca</a></b>
  
@@ -22,21 +25,9 @@
 ## Upcoming Events
 <body>
 
-<b>Mar</b>
+<b>The seminar series will resume in September 2024.</b>
 
-<details>
-      <summary><u><b>Mar 14: Christopher Blier-Wong (University of Waterloo)  </b></u></summary>
-        <ol>
-          <blockquote>
-            <p><b> Title: A representation-learning approach for insurance pricing with images </b></p>
-            <p><b> Speaker: Christopher Blier-Wong (Postdoc Fellow, University of Waterloo) </b></p>
-            <p><b> Time:  15:00 - 16:00, Mar 14, 2024 (Thu) </b></p>
-            <p><b> Location: M3 3127 </b></p>
-            <p><b> Abstract: Unstructured data are a promising new source of information that insurance companies may use to understand their risk portfolio better and improve the customer experience. However, these novel data sources are difficult to incorporate into existing ratemaking frameworks due to the size and format of the unstructured data. This paper proposes a framework to use street view imagery within a generalized linear model. To do so, we use representation learning to extract an embedding vector containing useful information from the image. This embedding is dense and low-dimensional, making it appropriate to use within existing ratemaking models. We find that there is useful information included in street view imagery to predict the frequency of claims for certain types of perils. This model can be used as-is in a ratemaking framework but also opens the door to future empirical research on attempting to extract which characteristics within the image leads to increased or decreased predicted claim frequencies. Throughout, we discuss the practical difficulties (technical and social) of using this type of data for insurance pricing.
-   </b></p>
-          </blockquote>
-        </ol>
-</details>  
+
 
 </body>
 
@@ -45,18 +36,17 @@
 
 <body>
 
-<b>November, 2023</b>
+<b>April, 2024</b>
 
 <details>
-      <summary><u><b>Nov 30, 2023: Qinyu Wu (University of Waterloo)  </b></u></summary>
+      <summary><u><b>Apr 18: Rhoda Dadzie-Dennis (University of Waterloo)  </b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: Model Aggregation for Risk Evaluation and Robust Optimization </b></p>
-            <p><b> Speaker: Qinyu Wu (Postdoc Fellow, University of Waterloo) </b></p>
-            <p><b> Time:  14:00 - 15:30 pm, Nov 30, 2023 (Thu) </b></p>
+            <p><b> Title: Portfolio decarbonization </b></p>
+            <p><b> Speaker: Rhoda Dadzie-Dennis (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time:  15:00 - 16:00 pm, Apr 18, 2024 (Thu) </b></p>
             <p><b> Location: M3 3127 </b></p>
-            <p><b> Abstract: We introduce a new approach for prudent risk evaluation based on stochastic dominance, which will be called the model aggregation (MA) approach. In contrast to the classic worst-case risk (WR) approach, the MA approach produces not only a robust value of risk evaluation but also a robust distributional model, independent of any specific risk measure. The MA risk evaluation can be computed through explicit formulas in the lattice theory of stochastic dominance, and under some standard assumptions, the MA robust optimization admits a convex-program reformulation. The MA approach for Wasserstein and mean-variance uncertainty sets admits explicit formulas for the obtained robust models. Via an equivalence property between the MA and the WR approaches, new axiomatic characterizations are obtained for the Value-at-Risk (VaR) and the Expected Shortfall (ES, also known as CVaR).  The new approach is illustrated with various risk measures and examples from portfolio optimization.
-   </b></p>
+            <p><b> Abstract: Research by Deng et al.(2023) suggests that, amid the Russia-Ukraine conflict, stocks with higher transition risk demonstrated better performance, indicating an expected deceleration in the transition process. This trend was notably more significant in the US compared to Europe. Also, with the recent outperformance of the energy sector, there is a huge backlash from plan participants against pension plans that decide to divest. A recent example is the New York City Pension Funds being sued for divesting from fossil fuels. With the rise of the divestment movement and the escalation of climate-related demonstrations, managers of pension plans find themselves at a critical juncture. Some plan participants argue that the sole purpose of pension plans is to enhance the wealth of their participants. Meanwhile, others contend that the fiduciary duty of pension plans includes promoting sustainability. Additionally, some participants agree that the primary goal of plans is wealth maximization but emphasize that this objective extends beyond the short term to encompass long-term considerations. They argue that since there are policies incentivizing sustainability, investing in sustainable stocks becomes imperative. Pension plans now face a pivotal decision between optimizing short-term returns or divesting from carbon-intensive sectors. In this research, we conduct a numerical experiment that explores the different opinions of these pension plan participants. </b></p>
           </blockquote>
         </ol>
 </details>  
