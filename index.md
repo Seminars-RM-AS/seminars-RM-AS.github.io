@@ -25,7 +25,7 @@
 ## Upcoming Events
 <body>
 
-<b>The seminar series will resume in September 2024.</b>
+<b>The seminar series will resume in January 2025.</b>
 
 
 
