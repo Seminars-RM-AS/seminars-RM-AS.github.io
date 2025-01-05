@@ -39,17 +39,17 @@
 <b>April, 2024</b>
 
 <details>
-      <summary><u><b>Apr 18: Rhoda Dadzie-Dennis (University of Waterloo)  </b></u></summary>
+      <summary><u><b>Dec 5: Freek Holvoet (KU Leuven)  </b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: Portfolio decarbonization </b></p>
-            <p><b> Speaker: Rhoda Dadzie-Dennis (PhD Candidate, University of Waterloo) </b></p>
-            <p><b> Time:  15:00 - 16:00 pm, Apr 18, 2024 (Thu) </b></p>
-            <p><b> Location: M3 3127 </b></p>
-            <p><b> Abstract: Research by Deng et al.(2023) suggests that, amid the Russia-Ukraine conflict, stocks with higher transition risk demonstrated better performance, indicating an expected deceleration in the transition process. This trend was notably more significant in the US compared to Europe. Also, with the recent outperformance of the energy sector, there is a huge backlash from plan participants against pension plans that decide to divest. A recent example is the New York City Pension Funds being sued for divesting from fossil fuels. With the rise of the divestment movement and the escalation of climate-related demonstrations, managers of pension plans find themselves at a critical juncture. Some plan participants argue that the sole purpose of pension plans is to enhance the wealth of their participants. Meanwhile, others contend that the fiduciary duty of pension plans includes promoting sustainability. Additionally, some participants agree that the primary goal of plans is wealth maximization but emphasize that this objective extends beyond the short term to encompass long-term considerations. They argue that since there are policies incentivizing sustainability, investing in sustainable stocks becomes imperative. Pension plans now face a pivotal decision between optimizing short-term returns or divesting from carbon-intensive sectors. In this research, we conduct a numerical experiment that explores the different opinions of these pension plan participants. </b></p>
+            <p><b> Title: Neural networks for insurance pricing with frequency and severity data: a benchmark study from data preprocessing to technical tariff </b></p>
+            <p><b> Speaker: Freek Holvoet (PhD researcher, KU Leuven) </b></p>
+            <p><b> Time:  14:30 - 15:30 pm, Dec 5, 2024 (Thu) </b></p>
+            <p><b> Location: M3 4206 </b></p>
+            <p><b> Abstract: Insurers usually turn to generalized linear models for modeling claim frequency and severity data. Due to their success in other fields, machine learning techniques are gaining popularity within the actuarial toolbox. Our paper contributes to the literature on frequency-severity insurance pricing with machine learning via deep learning structures. We present a benchmark study on four insurance data sets with frequency and severity targets in the presence of multiple types of input features. We compare in detail the performance of: a generalized linear model on binned input data, a gradient-boosted tree model, a feed-forward neural network (FFNN), and the combined actuarial neural network (CANN). The CANNs combine a baseline prediction established with a GLM and GBM, respectively, with a neural network correction. We explain the data preprocessing steps with specific focus on the multiple types of input features typically present in tabular insurance data sets, such as postal codes, numeric and categorical covariates. Autoencoders are used to embed the categorical variables into the neural network, and we explore their potential advantages in a frequency-severity setting. Model performance is evaluated not only on out-of-sample deviance but also using statistical and calibration performance criteria and managerial tools to get more nuanced insights. Finally, we construct global surrogate models for the neural nets’ frequency and severity models. These surrogates enable the translation of the essential insights captured by the FFNNs or CANNs to GLMs. As such, a technical tariff table results that can easily be deployed in practice. </b></p>
           </blockquote>
         </ol>
-</details>  
+</details> 
 
 </body>
 
